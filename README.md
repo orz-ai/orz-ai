@@ -4,10 +4,10 @@
 <img src="https://github.com/orz-ai/orz-ai/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/orz-ai"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
-  - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+- 💻 I’m currently a Golang Developer with a strong interest in computer fundamentals.  
+- 🚀 I’m passionate about exploring new technologies and mastering new knowledge at an exceptional pace.  
+- 🌍 I firmly believe in the philosophy of "Open Source is Justice."  
+- 😄 Pronouns: He / Him  
   
   #### 📫 How to reach me:
   
