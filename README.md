@@ -6,7 +6,7 @@
   
 - 💻 I’m currently a Golang Developer with a strong interest in computer fundamentals.  
 - 🚀 I’m passionate about exploring new technologies and mastering new knowledge at an exceptional pace.  
-- 🌍 I firmly believe in the philosophy of "Open Source is Justice."  
+- 🌍 I firmly believe in the philosophy of "Open Source make faster."  
 - 😄 Pronouns: He / Him  
   
   #### 📫 How to reach me:
