@@ -12,6 +12,14 @@
   #### 📫 How to reach me:
   
    <a href="mailto:deepincode@qq.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+  #### 🌐 My Online Porjects:
+  - 热门网址导航站: [https://orz.ai](https://orz.ai)
+  - 热点新闻聚合站: [https://news.orz.ai](https://news.orz.ai)
+  - AI热点新增站: [https://ainews.orz.ai](https://ainews.orz.ai)
+  - 常用开发者工具站: [https://dev.orz.ai](https://dev.orz.ai)
+  - 在线八股文刷题站: [https://bagu.orz.ai](https://bagu.orz.ai)
+  - 在线文本/文件快传站: [https://fly.orz.ai](https://fly.orz.ai)
   
   #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
