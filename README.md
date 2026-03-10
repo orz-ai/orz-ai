@@ -14,12 +14,14 @@
  <a href="mailto:deepincode@qq.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 #### 🌐 My Online Projects:
-- Popular Website Navigation: https://orz.ai
-- Trending News Aggregator: https://news.orz.ai
-- AI News Hub: https://ainews.orz.ai
-- Developer Tools Collection: https://dev.orz.ai
-- Interview Prep (CS Knowledge / “BaGuWen”) Practice: https://bagu.orz.ai
-- Instant Text & File Sharing: https://fly.orz.ai
+| Project | Description | Link |
+|--------|-------------|------|
+| ORZ Navigation | Popular website navigation portal | https://orz.ai |
+| ORZ News | Trending news aggregator | https://news.orz.ai |
+| AI News | AI news hub | https://ainews.orz.ai |
+| Dev Tools | Developer tools collection | https://dev.orz.ai |
+| Bagu Interview | Tech interview prep (BaGuWen practice) | https://bagu.orz.ai |
+| Fly Share | Instant text & file sharing | https://fly.orz.ai |
   
 #### 👨🏻‍💻 Languages and Tools <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
