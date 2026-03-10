@@ -16,9 +16,9 @@
 #### 🌐 My Online Projects:
 | Project | Description | Link |
 |--------|-------------|------|
-| ORZ Navigation | Popular website navigation portal | https://orz.ai |
-| ORZ News | Trending news aggregator | https://news.orz.ai |
-| AI News | AI news hub | https://ainews.orz.ai |
+| Site Navigation | Popular website navigation portal | https://orz.ai |
+| Hot News | Trending news aggregator | https://news.orz.ai |
+| AI News | AI news deck | https://ainews.orz.ai |
 | Dev Tools | Developer tools collection | https://dev.orz.ai |
 | Bagu Interview | Tech interview prep (BaGuWen practice) | https://bagu.orz.ai |
 | Fly Share | Instant text & file sharing | https://fly.orz.ai |
