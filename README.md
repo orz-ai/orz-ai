@@ -20,7 +20,7 @@
 | Hot News | Trending news aggregator | https://news.orz.ai |
 | AI News | AI news deck | https://ainews.orz.ai |
 | Dev Tools | Developer tools collection | https://dev.orz.ai |
-| 八股文刷题 | Tech interview prep (八股文刷题) | https://bagu.orz.ai |
+| 八股文刷题 | Tech interview prep (八股文面试刷题) | https://bagu.orz.ai |
 | Fly Share | Instant text & file sharing | https://fly.orz.ai |
   
 #### 👨🏻‍💻 Languages and Tools <br />
