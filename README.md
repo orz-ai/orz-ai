@@ -16,12 +16,13 @@
 #### 🌐 My Online Projects:
 | Project | Description | Link |
 |--------|-------------|------|
-| Site Navigation | Popular website navigation portal | https://orz.ai |
-| Hot News | Trending news aggregator | https://news.orz.ai |
-| AI News | AI news deck | https://ainews.orz.ai |
-| Dev Tools | Developer tools collection | https://dev.orz.ai |
-| 八股文刷题 | Tech interview prep (八股文面试刷题) | https://bagu.orz.ai |
-| Fly Share | Instant text & file sharing | https://fly.orz.ai |
+| Site Navigation | Popular website navigation portal | [https://orz.ai](https://orz.ai) |
+| Hot News | Trending news aggregator | [https://news.orz.ai](https://news.orz.ai) |
+| AI News | AI news deck | [https://ainews.orz.ai](https://ainews.orz.ai) |
+| Dev Tools | Developer tools collection | [https://dev.orz.ai](https://dev.orz.ai) |
+| 八股文刷题 | Tech interview prep (八股文面试刷题) | [https://bagu.orz.ai](https://bagu.orz.ai) |
+| Fly Share | Instant text & file sharing | [https://fly.orz.ai](https://fly.orz.ai) |
+| Blog | Gang's Blog | [https://orz-ai.github.io](https://orz-ai.github.io/) |
   
 #### 👨🏻‍💻 Languages and Tools <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
