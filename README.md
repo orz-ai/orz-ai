@@ -1,6 +1,19 @@
 ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=orz-ai&label=Profile%20Visits&color=blue&style=for-the-badge)
 
+  
+<img src="https://github.com/orz-ai/orz-ai/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/orz-ai"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+  
+- 💻 I’m currently a Golang Developer with a strong interest in computer fundamentals.  
+- 🚀 I’m passionate about exploring new technologies and mastering new knowledge at an exceptional pace.  
+- 🌍 I firmly believe in the philosophy of "Open Source make faster."  
+- 😄 Pronouns: He / Him  
+  
+#### 📫 How to reach me:
+
+ <a href="mailto:deepincode@qq.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
 <table style=" border-collapse: collapse;">
   <tr>
     <td style=" padding-right: 12px; vertical-align: middle;">
@@ -16,19 +29,6 @@
     </td>
   </tr>
 </table>
-
-  
-<img src="https://github.com/orz-ai/orz-ai/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/orz-ai"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
-- 💻 I’m currently a Golang Developer with a strong interest in computer fundamentals.  
-- 🚀 I’m passionate about exploring new technologies and mastering new knowledge at an exceptional pace.  
-- 🌍 I firmly believe in the philosophy of "Open Source make faster."  
-- 😄 Pronouns: He / Him  
-  
-#### 📫 How to reach me:
-
- <a href="mailto:deepincode@qq.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 #### 🌐 My Online Projects:
 | Project | Description | Link |
