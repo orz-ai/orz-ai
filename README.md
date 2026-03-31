@@ -43,4 +43,19 @@
   [![Stats](https://github-readme-stats.vercel.app/api?username=orz-ai&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=orz-ai&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=orz-ai&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=orz-ai&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
+
+<table style=" border-collapse: collapse;">
+  <tr>
+    <td style=" padding-right: 12px; vertical-align: middle;">
+      <div style="font-size: 16px; line-height: 1.6;">
+        <strong>欢迎各位同学关注我哦~</strong><br/>
+        在这个 AI 喧嚣的时代<br/>
+        不忘初心，戒骄戒躁，认真沉淀
+      </div>
+    </td>
+    <td style=" vertical-align: middle;">
+      <img src="https://orz.ai/wp-content/uploads/2026/04/1774977446-扫码_搜索联合传播样式-标准色版.bmp"
+           width="300" height="100" alt="Deepincode" />
+    </td>
+  </tr>
+</table>
