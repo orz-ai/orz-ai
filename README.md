@@ -35,6 +35,7 @@
 |--------|-------------|------|
 | Site Navigation | Popular website navigation portal | [https://orz.ai](https://orz.ai) |
 | Hot News | Trending news aggregator | [https://news.orz.ai](https://news.orz.ai) |
+| 游戏集合站 | 小霸王FC游戏、红白机、Gameboy游戏、GBA集合站 | [https://fc.orz.ai](https://fc.orz.ai) |
 | AI News | AI news deck | [https://ainews.orz.ai](https://ainews.orz.ai) |
 | Dev Tools | Developer tools collection | [https://dev.orz.ai](https://dev.orz.ai) |
 | 八股文刷题 | Tech interview prep (八股文面试刷题) | [https://bagu.orz.ai](https://bagu.orz.ai) |
