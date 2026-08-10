@@ -33,7 +33,7 @@
 #### 🌐 My Online Projects:
 | Project | Description | Link |
 |--------|-------------|------|
-| Site Navigation | Popular website navigation portal | [https://orz.ai](https://orz.ai) |
+| AI Navigation | Popular AI website navigation portal | [https://nav.orz.ai](https://nav.orz.ai) |
 | Hot News | Trending news aggregator | [https://news.orz.ai](https://news.orz.ai) |
 | 游戏集合站 | 小霸王FC游戏、红白机、Gameboy游戏、GBA集合站 | [https://fc.orz.ai](https://fc.orz.ai) |
 | AI News | AI news deck | [https://ainews.orz.ai](https://ainews.orz.ai) |
